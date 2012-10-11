@@ -1,6 +1,6 @@
-# ¶ÔIntentÍ¨Ñ¶»úÖÆµÄ³õ²½Ñ§Ï°ºÍ·ÖÎö
+# å¯¹Intenté€šè®¯æœºåˆ¶çš„åˆæ­¥å­¦ä¹ å’Œåˆ†æ
 
 ---
-## 0. Before we get started, Ğ´ÔÚÇ°Ãæ
-·ÖÎöIntentµÄÍ¨Ñ¶ÆäÊµÊÇÎªÁË·ÖÎöAndroidÆ½Ì¨µÄIPC»úÖÆ¡£
-½ø³Ì¼äµÄÍ¨Ñ¶-IPC(Inter-process Communication)¿ÉÒÔÀûÓÃ´«Í³µÄÀàUNIXµÄ»úÖÆ, ÀıÈçÎÄ¼şÏµÍ³(filesystem), ±¾µØSockets(local Sockets)
+## 0. Before we get started, å†™åœ¨å‰é¢
+åˆ†æIntentçš„é€šè®¯å…¶å®æ˜¯ä¸ºäº†åˆ†æAndroidå¹³å°IPCæœºåˆ¶ã€‚
+è¿›ç¨‹é—´çš„é€šè®¯-IPC(Inter-process Communication)å¯ä»¥åˆ©ç”¨ä¼ ç»Ÿçš„ç±»UNIXçš„æœºåˆ¶ï¼Œä¾‹å¦‚æ–‡ä»¶ç³»ç»Ÿ(filesystem)ï¼Œæœ¬åœ°Sockets(æœ¬åœ°Sockets)
